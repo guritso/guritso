@@ -5,4 +5,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurizenit&theme=react&layout=compact&langs_count=12&card_width=444)
 
-<img src="https://i.imgur.com/vIxxQyC.gif" width="444" height="250">
+![](https://i.imgur.com/vIxxQyC.gif)
