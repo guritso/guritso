@@ -6,3 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurizenit&theme=react&layout=compact&langs_count=12&card_width=444)
 
 ![](https://i.imgur.com/vIxxQyC.gif)
+
+BTC: `188d8nrWDirJ1GMF7xd6kPY38jSUFR9bi`
+DOGE: `DAAwJZSpEfujh34Tz9cmzvBvRTBzyteswZ`
