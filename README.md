@@ -1,5 +1,4 @@
 [![Website](https://img.shields.io/badge/site-gurizenit.site-blue)](https://gurizenit.site)
-[![Static](https://img.shields.io/static/v1?style=flat&logo=twitter&label=follow&message=@GuriZenit&color=blue)](https://twitter.com/gurizenit)
 
 ![soruly's github stats](https://github-readme-stats.vercel.app/api?username=gurizenit&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs)
 
