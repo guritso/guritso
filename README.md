@@ -2,6 +2,6 @@
 
 ![soruly's github stats](https://github-readme-stats.vercel.app/api?username=gurizenit&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurizenit&theme=react&layout=compact&langs_count=12&card_width=444)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurizenit&theme=react&layout=compact&langs_count=12&card_width=465)
 
 ![](https://i.imgur.com/vIxxQyC.gif)
