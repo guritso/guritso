@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/site-guritsuki.site-blue)](https://guritsuki.site)
+[![Website](https://img.shields.io/badge/site-guritso.site-blue)](https://guritso.site)
 
 ![soruly's github stats](https://github-readme-stats.vercel.app/api?username=guritso&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs)
 
